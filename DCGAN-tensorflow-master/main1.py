@@ -1,0 +1,1 @@
+python main.py --image_size 96 --output_size 48 --dataset xyjy --crop True --train True --epoch 300

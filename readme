@@ -1,0 +1,13 @@
+# 用DCGAN 实现 图像 生成
+版本
+python 3
+
+使用方法
+1： 百度爬虫： index.py
+2:  人脸识别： acquirePIC.py (所有图像), tmp.py 单张图像———haarcascade_frontalface_alt 人脸  lbpcascade 卡通图像
+3： DCGAN： main1.sh
+
+ 教程
+https://zhuanlan.zhihu.com/p/26639135
+https://zhuanlan.zhihu.com/p/27849151
+https://www.leiphone.com/news/201701/yZvIqK8VbxoYejLl.html
